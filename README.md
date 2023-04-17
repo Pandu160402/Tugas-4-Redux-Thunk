@@ -1,11 +1,29 @@
-# Sample Snack app
+# Contoh Penerapan Redux Thunk
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Contoh sederhana penerapan managemen data dengan menggunakan Redux Thunk dengan menggunakan contoh aplikasi [Tugas 3](https://github.com/Pandu160402/Tugas-3-PAM)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## Batasan Pengembangan
+- Data yang diambil berupa data acak tanpa API. 
+- Desain dibuat sesederhana mungkin
+- Terdapat perintah Create, Read, Update dan Delete Data Acak
+- Terdapat pengujian kode Asynchhronous
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Cara Menjalankan
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+> **Lokal**
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+**Dependensi Utama** : `Node.js`, `React-Native`, `Expo-CLI`, `Redux`, `Redux-Thunk`
+
+**Langkah - langkah** :
+- Langkah pertama dalam menjalankan aplikasi ini adalah melakukan instalasi seluruh dependensi yang dibutuhkan
+- Selanjutnya, Unduh *repository* ini dengan menekan tombol `Code` berwarna Hijau diatas atau tekan [Unduh]((https://github.com/Pandu160402/Tugas-4-Redux-Thunk/archive/refs/heads/main.zip)
+- Estrak file hasil download repository ini didalam folder lokal yang diinginkan
+- Jika Proses Ekstraksi telah selesai, buka Terminal / CMD perangkat PC kalian lalu arahkan *Current Directory* ke folder hasil ekstraski tersebut
+- Kemudian tuliskan perintah berikut secara berurutan, `npx install` dan `npx expo start`. *Note : Dibutuhkan Koneksi Internet*
+- Selesai, silahkan memilih cara menjalankan aplikasi ini dengan yang diinginkan (WEB / Mobile Scan / any else)
+
+> **Snack - EXPO GO**
+
+**Langkah - langkah** :
+- Langkah pertama yang harus kalian lakukan adalah menyambungkan perangkat dengan koneksi Internet
+- Kemudian akses link berikut : [LINK](https://snack.expo.dev/@pandu_69/tugas4reduxthunk)
