@@ -16,7 +16,7 @@ Contoh sederhana penerapan managemen data dengan menggunakan Redux Thunk dengan 
 
 **Langkah - langkah** :
 - Langkah pertama dalam menjalankan aplikasi ini adalah melakukan instalasi seluruh dependensi yang dibutuhkan
-- Selanjutnya, Unduh *repository* ini dengan menekan tombol `Code` berwarna Hijau diatas atau tekan [Unduh]((https://github.com/Pandu160402/Tugas-4-Redux-Thunk/archive/refs/heads/main.zip)
+- Selanjutnya, Unduh *repository* ini dengan menekan tombol `Code` berwarna Hijau diatas atau tekan [Unduh](https://github.com/Pandu160402/Tugas-4-Redux-Thunk/archive/refs/heads/main.zip)
 - Estrak file hasil download repository ini didalam folder lokal yang diinginkan
 - Jika Proses Ekstraksi telah selesai, buka Terminal / CMD perangkat PC kalian lalu arahkan *Current Directory* ke folder hasil ekstraski tersebut
 - Kemudian tuliskan perintah berikut secara berurutan, `npx install` dan `npx expo start`. *Note : Dibutuhkan Koneksi Internet*
